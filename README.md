@@ -1,4 +1,4 @@
-Simple Web Scraper
+Web Scraper
 
 A simple web scraper built with Python that extracts data from websites. This project serves as a demonstration of web scraping techniques using the `requests` and `BeautifulSoup` libraries.
 
